@@ -1,22 +1,29 @@
 ## Summary
 
-Replace this paragraph with one or more paragraphs summarizing the purpose and operation of the software you propose to develop in this project.
+My proposed capstone project is an app for live music lovers that are interested in finding out information about a venue in general or one they're attending.
+
+This application would allow users to search for their favorite venues/find new venues across the country (maybe just ABQ to start) and access information such as: Business hours, Food options, Alcohol selection, Security policies, Current entertainment offerings, Nearby hotels, Hot spots, and much more! 
+
+
 
 ## Intended users
 
-Write a bullet list here, including at least 2 different types of intended users. Make it reasonably specific; simply saying "Anyone who likes games" (for example) is not sufficiently specific.
+- A user that is following their favorite band and travelling to a city for their first time.
 
-For each type of intended user, include at least 1 _user story_. A user story is usually just 1 simple sentence (no more than 2 sentences), in the voice of the intended user, stating a specific task that the user performs using the app, and the benefit that will be obtained. The simplest user stories take the form 
+>My favorite band, Phish, is always travelling to new cities and venues, and I don't know where to begin in a new city. I want an app that gives me info about the city/venue I'm visiting in one concise place so I don't have to individually search for all that information. 
 
-> As a <type of intended user (_who_)> I want to <use of feature or functionality (_what_)> so that <benefit (_why_).
 
-Please avoid writing too much for the user story. In particular, if the way the user story is written makes it difficult to see the _who_, _what_, and _why_, then you probably need to re-write it more directly. (On the other hand, a user story should not simply be a re-statement of the intended user description.)
+- A local that is looking for a new place to see music and get out for a night. 
 
-Here is one (silly) example of an intended user, along with a user story. Please note not only the conceptual structure, but the Markdown syntax used.
+> As a local music lover, I'm always looking for new exciting venues and events to attend. I want an app that tells me new venues to check out and maybe some new info about the ones I regularly attend without having to put in too much effort.
 
-* People who like to use randomness in their decision making.
 
-    > As someone who enjoys randomness in my life, I need an app that lets me flip a virtual coin or roll one or more virtual dice, so that I can base my decisions on randomness, without having to carry coins or dice in my pockets.
+
+
+
+
+
+
 
 ## Client component
 
