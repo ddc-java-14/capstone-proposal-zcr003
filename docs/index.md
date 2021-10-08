@@ -29,7 +29,9 @@ This application would allow users to search for their favorite venues/find new 
 
 ### Functionality
 
-List the key functional aspects that will be provided by the user interface---i.e. tell us what the user will be able to do in the GUI.
+A user will be able to search for a nearby venue or for one of their choosing. Once a venue is found it will be shown on a map along with other nearby venues, food, hot spots, etc. The user will be able to navigate through menus that explain information about the venue, along with other relevant info. The user will be able to add frequented venues to a favorites folder and get updates from their favorite venues.  
+
+
 
 ### Persistent data
 
