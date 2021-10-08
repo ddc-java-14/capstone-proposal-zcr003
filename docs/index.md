@@ -1,6 +1,6 @@
 ## Summary
 
-My proposed capstone project is an app for live music lovers that are interested in finding out information about a venue in general or one they're attending.
+My proposed capstone project is an app for live music lovers that are interested in finding out information about a venue they are attending/in general.
 
 This application would allow users to search for their favorite venues/find new venues across the country (maybe just ABQ to start) and access information such as: Business hours, Food options, Alcohol selection, Security policies, Current entertainment offerings, Nearby hotels, Hot spots, and much more! 
 
@@ -29,15 +29,25 @@ This application would allow users to search for their favorite venues/find new 
 
 ### Functionality
 
-A user will be able to search for a nearby venue or for one of their choosing. Once a venue is found it will be shown on a map along with other nearby venues, food, hot spots, etc. The user will be able to navigate through menus that explain information about the venue, along with other relevant info. The user will be able to add frequented venues to a favorites folder and get updates from their favorite venues.  
+A user will be able to search for a nearby venue or for one of their choosing. Once a venue is found it will be shown on a map with information about the venue such as hours, whether they serve food, alcohol selection, etc. along with other nearby venues, food, and hot spots. The user will be able to navigate through menus that explain information about the venue, along with other relevant info. The user will be able to add frequented venues to a favorites folder and get updates from their favorite venues.  
 
 
 
 ### Persistent data
+- Persisting previous site activity (e.g. storing the contents of a previous session, remembering if a user was previously logged in).
+- Potentially saving some data and assets locally so a site will be quicker to download, or be usable without a network connection.
+- Saving web application generated documents locally for use offline such as direction to the venue. 
 
-List the content that will be stored on the client side. This should include any information that a user of your system should expect to be maintained locally (i.e. without connection to a server) across multiple sessions of use, on a single device. 
-    
+
+
 ### Device/external services
+
+- Location
+- Map Services
+- Real-time Weather
+- 
+
+
 
 If the client component will need to access special services of the device (e.g. sensors, contacts, messaging), list them here. Also, if the client component will need to access already-existing external services (e.g. real-time weather data, Open Trivia Database), those should also be listed here; any such references to external services should include links to the main page or API description page for the service.
     
