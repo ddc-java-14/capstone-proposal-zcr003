@@ -75,4 +75,4 @@ NOTE: Still trying to figure out the rest of these following items so any advice
     
 ## Stretch goals/possible enhancements 
 
-- TBD
+- Potentially connect to ticketing service to allow users to purchase the cheapest available tickets within the app.
