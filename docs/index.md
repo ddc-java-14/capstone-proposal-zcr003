@@ -65,12 +65,12 @@ NOTE: Still trying to figure out the rest of these following items so any advice
 ### Persistent data
 
 - Favorites
+- Search History
 - TBD
     
 ### External services
 
 - Google Sign-in
-- TBD
 
     
 ## Stretch goals/possible enhancements 
