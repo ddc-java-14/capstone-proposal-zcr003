@@ -76,3 +76,4 @@ NOTE: Still trying to figure out the rest of these following items so any advice
 ## Stretch goals/possible enhancements 
 
 - Potentially connect to ticketing service to allow users to purchase the cheapest available tickets within the app.
+- Ability to like your favorite bands and recieve notifications when they're nearby or coming soon.
