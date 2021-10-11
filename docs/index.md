@@ -29,7 +29,7 @@ This application would allow users to search for their favorite venues/find new 
 
 ### Functionality
 
-A user will be able to search for a nearby venue or for one of their choosing. Once a venue is found it will be shown on a map with information about the venue such as hours, whether they serve food, alcohol selection, etc. along with other nearby venues, food, and hot spots. The user will be able to navigate through menus that explain information about the venue, along with other relevant info. The user will be able to add frequented venues to a favorites folder and get updates from their favorite venues as well as share venues with friends. 
+A user will be able to search for a nearby venue or for one of their choosing. Once a venue is found it will be shown on a map with information about the venue such as hours, whether they serve food, alcohol selection, etc. along with other nearby venues, food, and hot spots. The user will be able to navigate through menus that explain information about the venue, along with other relevant info. The user will be able to add frequented venues to a favorites folder and get updates from their favorite venues.
 
 
 
@@ -47,10 +47,8 @@ A user will be able to search for a nearby venue or for one of their choosing. O
 - Real-time Weather
 
 
-
-    
 ## Server component
-NOTE: Still trying to figure out the rest of these following items so any advice would be great. I think I have an idea but I'm still so new that it's feeling a little intimidating.
+               
 
 ### Functionality
 
@@ -58,7 +56,7 @@ NOTE: Still trying to figure out the rest of these following items so any advice
 - Access to venue information
 - Google Sign In 
 - Cloud storage of favorite Venues
-- Friends list
+
 
 
 
@@ -66,14 +64,16 @@ NOTE: Still trying to figure out the rest of these following items so any advice
 
 - Favorites
 - Search History
-- TBD
+
     
 ### External services
 
+- Search function
 - Google Sign-in
+- API for finding the venue information
 
     
 ## Stretch goals/possible enhancements 
 
 - Potentially connect to ticketing service to allow users to purchase the cheapest available tickets within the app.
-- Ability to like your favorite bands and recieve notifications when they're nearby or coming soon.
+- Ability to like your favorite bands and receive notifications when they're nearby or coming soon.
