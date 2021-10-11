@@ -29,7 +29,7 @@ This application would allow users to search for their favorite venues/find new 
 
 ### Functionality
 
-A user will be able to search for a nearby venue or for one of their choosing. Once a venue is found it will be shown on a map with information about the venue such as hours, whether they serve food, alcohol selection, etc. along with other nearby venues, food, and hot spots. The user will be able to navigate through menus that explain information about the venue, along with other relevant info. The user will be able to add frequented venues to a favorites folder and get updates from their favorite venues.  
+A user will be able to search for a nearby venue or for one of their choosing. Once a venue is found it will be shown on a map with information about the venue such as hours, whether they serve food, alcohol selection, etc. along with other nearby venues, food, and hot spots. The user will be able to navigate through menus that explain information about the venue, along with other relevant info. The user will be able to add frequented venues to a favorites folder and get updates from their favorite venues as well as share venues with friends. 
 
 
 
@@ -45,26 +45,34 @@ A user will be able to search for a nearby venue or for one of their choosing. O
 - Location
 - Map Services
 - Real-time Weather
-- 
 
 
 
-NOTE: Still trying to figure out the rest of these following items so any advice would be great. I think I have an idea but I'm still so new that it's feeling a little intimidating but I'll have these wrapped up by end of tonight/tomorrow. 
     
 ## Server component
+NOTE: Still trying to figure out the rest of these following items so any advice would be great. I think I have an idea but I'm still so new that it's feeling a little intimidating.
 
 ### Functionality
 
-List the key functional aspects that will be provided by the server component---i.e. tell us what parts of the system functionality will be performed by the server.
+- Venue search
+- Access to venue information
+- Google Sign In 
+- Cloud storage of favorite Venues
+- Friends list
+
+
 
 ### Persistent data
 
-List the content that will be stored on the server side. This should include any information that a user of your system should expect to be accessible across multiple sessions of use, even if accessed from separate devices. In addition, if there will be data originating from some users that will then be accessible by other users, it should be part of the persistent data on the server. 
+- Favorites
+- TBD
     
 ### External services
 
-If the server component will need to access already-existing external services (e.g. stock prices, Open Movie Database), those should also be listed here. Any such references to external services should include links to the main page or API description page for the service.
+- Google Sign-in
+- TBD
+
     
 ## Stretch goals/possible enhancements 
 
-If you can identify functional elements of the software that you think might not be achievable in the scope of the project, but which would nonetheless add significant value if you were able to include them, list them here. For now, we recommend listing them in order of complexity/amount of work, from the least to the most.
+- TBD
