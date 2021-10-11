@@ -49,7 +49,7 @@ A user will be able to search for a nearby venue or for one of their choosing. O
 
 
 
-If the client component will need to access special services of the device (e.g. sensors, contacts, messaging), list them here. Also, if the client component will need to access already-existing external services (e.g. real-time weather data, Open Trivia Database), those should also be listed here; any such references to external services should include links to the main page or API description page for the service.
+NOTE: Still trying to figure out the rest of these following items so any advice would be great. I think I have an idea but I'm still so new that it's feeling a little intimidating but I'll have these wrapped up by end of tonight/tomorrow. 
     
 ## Server component
 
