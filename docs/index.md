@@ -29,14 +29,27 @@ This application would allow users to search for their favorite venues/find new 
 
 ### Functionality
 
-A user will be able to search for a nearby venue or for one of their choosing. Once a venue is found it will be shown on a map with information about the venue such as hours, whether they serve food, alcohol selection, etc. along with other nearby venues, food, and hot spots. The user will be able to navigate through menus that explain information about the venue, along with other relevant info. The user will be able to add frequented venues to a favorites folder and get updates from their favorite venues.
+A user will be able to: 
+
+- Search for a nearby venue or for one of their choosing.
+  - Once a venue is found it will be shown on a map with information such as: 
+    - Hours of Operation
+    - Food Options 
+    - Alcohol Selection 
+    - Covid policies
+    - Security policies
+    - Other nearby venues, food, and hot spots. 
+    - etc. 
+- Navigate through menus that explain information about the venue, along with other relevant info.
+- Add frequented venues to a favorites folder and get updates from their favorite venues.
 
 
 
 ### Persistent data
-- Persisting previous site activity (e.g. storing the contents of a previous session, remembering if a user was previously logged in).
-- Potentially saving some data and assets locally so a site will be quicker to download, or be usable without a network connection.
+- Persisting previous site activity (e.g. storing the contents of a previous session)
+- Saving some data and assets locally so a site will be quicker to download, or be usable without a network connection.
 - Saving web application generated documents locally for use offline such as direction to the venue. 
+
 
 
 
@@ -54,22 +67,35 @@ A user will be able to search for a nearby venue or for one of their choosing. O
 
 - Venue search
 - Access to venue information
-- Google Sign In 
 - Cloud storage of favorite Venues
 
 
 
 
 ### Persistent data
-
+- Venue information
+  - food selection
+  - alcohol selection
+  - events
+  - hours of operation
+  - security policies
+  - covid policies
+  - etc.
 - Favorites
 - Search History
+- Google Sign-in
+- Secondary data
+  - nearby hotels
+  - hot spots
+  - restaurants
+  - etc.
+
 
     
 ### External services
 
 - Search function
-- Google Sign-in
+- Spring Security
 - API for finding the venue information
 
     
@@ -77,3 +103,4 @@ A user will be able to search for a nearby venue or for one of their choosing. O
 
 - Potentially connect to ticketing service to allow users to purchase the cheapest available tickets within the app.
 - Ability to like your favorite bands and receive notifications when they're nearby or coming soon.
+- Implementation of friends list to share venues with friends and add points-of-interest for other users to see and/or comment on or update.  
